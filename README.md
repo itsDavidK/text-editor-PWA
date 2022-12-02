@@ -5,6 +5,7 @@ text-editor-PWA is a online text editor. You can save the entire text. It also m
 ## Table of Contents
 - [Contributions](#contributions) 
 - [Installation](#Installation) 
+- [Website_Screenshot](#website_screenshot)
 - [Link](#link)
 - [Questions](#questions) 
 ## Contributions
@@ -12,6 +13,9 @@ text-editor-PWA is a online text editor. You can save the entire text. It also m
 David Kovalchuk
 ## Installation
 When trying to run through vscode. Make sure to "npm i".
+
+## Website_Screenshot
+<img src="./assets/screenshot.png">
 
 ## Link
 https://david-pwa.herokuapp.com/
